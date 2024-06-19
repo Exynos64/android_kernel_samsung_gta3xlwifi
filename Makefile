@@ -4,6 +4,9 @@ SUBLEVEL = 177
 EXTRAVERSION =
 NAME = Blurry Fish Butt
 
+PLATFORM_VERSION ?= 11
+ANDROID_MAJOR_VERSION ?= r
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
