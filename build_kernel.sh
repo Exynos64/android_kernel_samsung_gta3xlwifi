@@ -6,4 +6,4 @@ export ANDROID_MAJOR_VERSION=r
 export ARCH=arm64
 
 make exynos7885-gta3xlwifi_defconfig
-make -j64
+make -j $(nproc --all)
