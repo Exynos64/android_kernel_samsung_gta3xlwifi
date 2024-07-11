@@ -1,0 +1,4 @@
+[submodule "toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"]
+	path = toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+	url = https://github.com/Exynos64/aarch64-linux-android-4.9
+	branch = a3a5fbd
